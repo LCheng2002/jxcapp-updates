@@ -1,12 +1,11 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/LCheng2002/jxcapp-updates@main/releases/jxcapp-1.2-release.apk",
+  "versionCode": 13,
+  "versionName": "1.3",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/LCheng2002/jxcapp-updates@main/releases/jxcapp-1.3-release.apk",
   "publishedAt": "2026-03-20",
   "fileSizeBytes": 11747516,
   "notes": [
-    "首页启动时自动检查最新更新",
-    "首页右侧新增更新悬浮提醒，点击即可下载并安装",
-    "优化应用内更新网络回退与安装授权提示"
+    "1.3 测试版本，仅用于验证自动检测更新",
+    "本次不包含功能变更"
   ]
 }
