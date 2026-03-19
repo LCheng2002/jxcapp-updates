@@ -1,11 +1,12 @@
 {
-  "versionCode": 17,
-  "versionName": "1.5",
-  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.5-release.apk",
+  "versionCode": 12,
+  "versionName": "1.2",
+  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.2-release.apk",
   "publishedAt": "2026-03-20",
   "fileSizeBytes": 11747516,
   "notes": [
-    "1.5 测试版本，用于验证修复后的首页自动检测更新",
-    "本次不包含新的功能变更"
+    "1.2 正式版发布",
+    "已接入应用内更新",
+    "进入设置页时自动检查更新并显示侧边更新入口"
   ]
 }
