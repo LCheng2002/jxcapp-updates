@@ -1,12 +1,11 @@
 {
-  "versionCode": 16,
-  "versionName": "1.4.1",
-  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.4.1-release.apk",
+  "versionCode": 17,
+  "versionName": "1.5",
+  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.5-release.apk",
   "publishedAt": "2026-03-20",
-  "fileSizeBytes": 11747512,
+  "fileSizeBytes": 11747516,
   "notes": [
-    "1.4.1 修复更新检测逻辑，改为多源取最大版本号",
-    "缩短更新清单超时，避免首页检查更新等待过久",
-    "补充 github raw 页面地址与 refs 地址回退"
+    "1.5 测试版本，用于验证修复后的首页自动检测更新",
+    "本次不包含新的功能变更"
   ]
 }
