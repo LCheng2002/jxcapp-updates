@@ -1,10 +1,12 @@
 {
   "versionCode": 11,
   "versionName": "1.1",
-  "apkUrl": "",
+  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.1-debug.apk",
   "publishedAt": "2026-03-20",
+  "fileSizeBytes": 18091367,
   "notes": [
     "1.1 正式版发布",
-    "请在上传 APK 后补全 apkUrl"
+    "已接入应用内检查更新与下载安装",
+    "当前更新源使用 debug APK"
   ]
 }
