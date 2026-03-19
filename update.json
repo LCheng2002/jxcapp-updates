@@ -1,11 +1,11 @@
 {
-  "versionCode": 14,
-  "versionName": "1.3.1",
-  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.3.1-release.apk",
+  "versionCode": 15,
+  "versionName": "1.4",
+  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.4-release.apk",
   "publishedAt": "2026-03-20",
-  "fileSizeBytes": 11747512,
+  "fileSizeBytes": 11747516,
   "notes": [
-    "1.3.1 基线修复版，改用 GitHub Raw 作为默认更新清单源",
-    "补充 Raw 与 jsDelivr 双向回退，避免 CDN 缓存导致漏检更新"
+    "1.4 测试版本，用于验证首页自动检测更新",
+    "本次不包含新的功能变更"
   ]
 }
