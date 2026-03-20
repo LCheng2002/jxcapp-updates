@@ -1,12 +1,12 @@
 {
-  "versionCode": 13,
-  "versionName": "1.2.1",
-  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.2.1-release.apk",
+  "versionCode": 15,
+  "versionName": "1.3",
+  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.3-release.apk",
   "publishedAt": "2026-03-20",
-  "fileSizeBytes": 11780332,
+  "fileSizeBytes": 11813104,
   "notes": [
-    "1.2.1 正式版发布",
-    "优化手工录单与拼音搜索体验",
-    "补充详情页分享与作废入口"
+    "1.3 正式版发布",
+    "日历记账支持毛利润主展示",
+    "月视图去除文字前缀，仅保留数字与颜色"
   ]
 }
