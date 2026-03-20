@@ -1,14 +1,12 @@
 {
-  "versionCode": 19,
-  "versionName": "1.4",
-  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.4-release.apk",
+  "versionCode": 20,
+  "versionName": "1.4.1",
+  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.4.1-release.apk",
   "publishedAt": "2026-03-20",
-  "fileSizeBytes": 11845872,
+  "fileSizeBytes": 11845868,
   "notes": [
-    "1.4 正式稳定版发布",
-    "日历记账：毛利润数据展现、视图优化",
-    "欠款管理：导航返回按钮、页面稳定性修复",
-    "首页展示：销售涨幅动态计算、异常场景处理",
-    "单据导出：PNG导出支持、预览+分享流程统一"
+    "修复应用内更新检测，更新清单不再直接依赖 jsDelivr 镜像缓存",
+    "更新检查优先使用 raw.githubusercontent.com，避免镜像滞后导致误判无更新",
+    "保留 APK 下载多源候选，兼顾更新准确性与下载可用性"
   ]
 }
