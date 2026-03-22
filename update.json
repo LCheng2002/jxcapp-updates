@@ -1,12 +1,14 @@
 {
-  "versionCode": 20,
-  "versionName": "1.4.1",
-  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.4.1-release.apk",
-  "publishedAt": "2026-03-20",
-  "fileSizeBytes": 11845868,
+  "versionCode": 21,
+  "versionName": "1.5",
+  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.5-release.apk",
+  "publishedAt": "2026-03-22",
+  "fileSizeBytes": 44110254,
   "notes": [
-    "修复应用内更新检测，更新清单不再直接依赖 jsDelivr 镜像缓存",
-    "更新检查优先使用 raw.githubusercontent.com，避免镜像滞后导致误判无更新",
-    "保留 APK 下载多源候选，兼顾更新准确性与下载可用性"
+    "新增全局 AI 经营诊断悬浮入口",
+    "支持长按拖动、左右吸附、点击外部空白区域收起",
+    "诊断模型切换到 kimi-k2-turbo-preview，显著降低响应耗时",
+    "修复 Kimi 诊断域名与正式版发布配置",
+    "优化悬浮卡片头部层级与主导航交互体验"
   ]
 }
