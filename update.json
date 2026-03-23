@@ -1,14 +1,12 @@
 {
-  "versionCode": 21,
-  "versionName": "1.5",
-  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.5-release.apk",
-  "publishedAt": "2026-03-22",
-  "fileSizeBytes": 44110254,
+  "versionCode": 22,
+  "versionName": "1.5.1",
+  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.5.1-release.apk",
+  "publishedAt": "2026-03-23",
+  "fileSizeBytes": 44126646,
   "notes": [
-    "新增全局 AI 经营诊断悬浮入口",
-    "支持长按拖动、左右吸附、点击外部空白区域收起",
-    "诊断模型切换到 kimi-k2-turbo-preview，显著降低响应耗时",
-    "修复 Kimi 诊断域名与正式版发布配置",
-    "优化悬浮卡片头部层级与主导航交互体验"
+    "统一总欠款口径，包含销售单欠款与手工录入欠款",
+    "修复最近一笔欠款展示，按最近原始欠款记录取值",
+    "统一首页卡片与详情页往来汇总的欠款统计结果"
   ]
 }
