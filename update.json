@@ -1,12 +1,12 @@
 {
-  "versionCode": 22,
-  "versionName": "1.5.1",
-  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.5.1-release.apk",
+  "versionCode": 23,
+  "versionName": "1.5.2",
+  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.5.2-release.apk",
   "publishedAt": "2026-03-23",
-  "fileSizeBytes": 44126646,
+  "fileSizeBytes": 33645100,
   "notes": [
-    "统一总欠款口径，包含销售单欠款与手工录入欠款",
-    "修复最近一笔欠款展示，按最近原始欠款记录取值",
-    "统一首页卡片与详情页往来汇总的欠款统计结果"
+    "正式版开启代码混淆与资源裁剪，减小安装包体积",
+    "优化更新下载安装体验，降低整包下载等待时间",
+    "同步更新版本诊断脚本，识别 1.5.2"
   ]
 }
