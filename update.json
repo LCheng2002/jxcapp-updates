@@ -1,12 +1,14 @@
 {
-  "versionCode": 23,
-  "versionName": "1.5.2",
-  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.5.2-release.apk",
-  "publishedAt": "2026-03-23",
-  "fileSizeBytes": 33645100,
+  "versionCode": 24,
+  "versionName": "1.5.3",
+  "apkUrl": "https://raw.githubusercontent.com/LCheng2002/jxcapp-updates/main/releases/jxcapp-1.5.3-release.apk",
+  "publishedAt": "2026-03-25",
+  "fileSizeBytes": 33677868,
+  "sha256": "5422e86f8547cad1befe8e446a2fbf57017f30c883acd6ab5570a77e2593c367",
   "notes": [
-    "正式版开启代码混淆与资源裁剪，减小安装包体积",
-    "优化更新下载安装体验，降低整包下载等待时间",
-    "同步更新版本诊断脚本，识别 1.5.2"
+    "修复欠款详情页关联单据明细中的手工录入卡片无法点击跳转的问题",
+    "手工录入欠款现在可直接从详情页进入对应的欠款编辑页",
+    "关联单据明细补充原始欠款标识，确保详情页跳转到正确的手工欠款记录",
+    "保持销售单、进货单与手工欠款三类明细入口行为一致"
   ]
 }
