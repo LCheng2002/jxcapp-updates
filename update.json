@@ -1,14 +1,14 @@
 {
-  "versionCode": 24,
-  "versionName": "1.5.3",
-  "apkUrl": "https://gitee.com/KuoHisao/jxcapp-updates/releases/download/v1.5.3/jxcapp-1.5.3-release.apk",
+  "versionCode": 25,
+  "versionName": "1.5.4",
+  "apkUrl": "https://gitee.com/KuoHisao/jxcapp-updates/releases/download/v1.5.4/jxcapp-1.5.4-release.apk",
   "publishedAt": "2026-03-25",
   "fileSizeBytes": 33677868,
-  "sha256": "5422e86f8547cad1befe8e446a2fbf57017f30c883acd6ab5570a77e2593c367",
+  "sha256": "5d0cf30f2e0efb737e46d07688c58886768ccc8da6acd2f82caf9b59c27e4642",
   "notes": [
-    "修复欠款详情页关联单据明细中的手工录入卡片无法点击跳转的问题",
-    "手工录入欠款现在可直接从详情页进入对应的欠款编辑页",
-    "关联单据明细补充原始欠款标识，确保详情页跳转到正确的手工欠款记录",
-    "保持销售单、进货单与手工欠款三类明细入口行为一致"
+    "应用内更新清单默认改为从 Gitee 拉取",
+    "正式版 APK 下载地址改为 Gitee Release 附件直链",
+    "发布脚本新增 Gitee Release 上传能力，发布时可自动生成公开下载链接",
+    "保留 GitHub 更新仓库同步，作为发布备份与回滚参考"
   ]
 }
